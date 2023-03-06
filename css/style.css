@@ -107,13 +107,13 @@ main img{
     }
   
 main div:nth-of-type(odd) img{
-    border: dashed 8px #141d20;
+    border: solid 8px #141d20;
     border-radius: 20px;
     margin-bottom: 20px;
     }
 
 main div:nth-of-type(even) img{
-    border: dashed 8px #F05C5E;
+    border: solid 8px #F05C5E;
     border-radius: 20px;
     margin-bottom: 20px;
     }
@@ -127,7 +127,7 @@ main div:nth-of-type(even) img{
      width: 800px;
      display: block;
      margin: auto;
-     border: dashed 8px #141d20;
+     border: solid 8px #141d20;
      padding: 10px;
      border-radius: 20px;
     }
