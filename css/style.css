@@ -4,7 +4,8 @@ body{
     }   
 
 a.skip{
-    background: white;
+    background: #141d20;
+    border: #fffffff;
     padding: 6px;
     -webkit-transition: top 1s ease-out;
     transition: left 1s ease-out;
